@@ -1,4 +1,4 @@
-# vagrant_getting_started
+# Vagrant getting started
 Simple vagrant box configuration and provisioning.
 
 Environment is setup using Vagrant and VirtualBox provider applications. So, please be sure that you have both applications installed:
